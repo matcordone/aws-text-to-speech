@@ -9,3 +9,5 @@ infra/terraform.tfstate.backup
 infra/get_post.zip
 
 infra/lambda_*
+
+.DB*
