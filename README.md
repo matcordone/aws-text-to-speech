@@ -2,7 +2,7 @@
 
 This is a serverless web application that converts user text input into spoken audio using AWS Polly. The application was built for educational purposes and showcases integration between several AWS services through Terraform.
 
-## Infrastructure:
+## Infrastructure Diagram
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/b3d1900c-1ad7-4314-b747-c14fad7bd8c4" />
 
 ---
